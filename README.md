@@ -29,8 +29,8 @@ Image functionality made possible by [Cloudinary](https://cloudinary.com/documen
 Map functionality was achieved through the combined resources of [Leaflet](https://leafletjs.com/), [OpenStreetMap](https://www.openstreetmap.org/#map=5/38.007/-95.844), and [Mapbox](https://www.mapbox.com/). 
 ## Contributions
 This project was a group endeavor willed into begrudging functionality by
-[Peter MoDavis](https://github.com/PeterMoDavis), [Matt Ward](https://github.com/mattrward1030), [Som Safavi](https://github.com/somisalami12), and me, [Amanda Hamilton](https://github.com/polysnacktyl). We are very proud of ourselves. 
-For questions or contributions contact polysnacktyl@gmail.com
+[Amanda Hamilton](https://github.com/polysnacktyl), [Matt Ward](https://github.com/mattrward1030), [Som Safavi](https://github.com/somisalami12), and me,  [Peter MoDavis](https://github.com/PeterMoDavis). We are very proud of ourselves. 
+For questions or contributions contact pmodavis.webdev@gmail.com.
 ## Future Development
 Directions for future development: 
 - pulling in weather data,
