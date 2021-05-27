@@ -16,9 +16,8 @@ This application allows users to add, annotate, view, and utilize photographs of
 4. ```node server.js``` to spin up the server. 
 5. ```seeds/index.js``` to seed.
 ## Using the Deployed Application
-1. Head to the main homepage [HERE](https://fung-id-final.herokuapp.com/)
-2. ![homepage mushroom](./public/images/home.png)
-3. Visit the [login](https://fung-id-final.herokuapp.com/login) page to log in or sign up.
+1. Head to the main homepage [HERE](https://fung-id-final.herokuapp.com/)</br>![homepage mushroom](./public/images/home.png)
+2. Visit the [login](https://fung-id-final.herokuapp.com/login) page to log in or sign up.
 4. Navigate to the upload page. 
 5. Click the ```upload files``` button and select an image to upload to the gallery. 
 6. Enter a title and description for the image after the upload finishes. 
