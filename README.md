@@ -16,13 +16,14 @@ This application allows users to add, annotate, view, and utilize photographs of
 4. ```node server.js``` to spin up the server. 
 5. ```seeds/index.js``` to seed.
 ## Using the Deployed Application
-1. Visit the [login](https://fung-id-final.herokuapp.com/login) page to log in or sign up.
-2. Navigate to the upload page. 
-3. Click the ```upload files``` button and select an image to upload to the gallery. 
-4. Enter a title and description for the image after the upload finishes. 
-5. Click ```submit```. 
-6. Navigate to [Mush-room](https://fung-id-final.herokuapp.com/mush-room) to view a thumbnail gallery of your colleciton of images. 
-7. Click any thumbnail to view a full-size image, notes entered on the upload step, and a map with geolocation data so you can always remember where you found this mushroom. 
+1. Head to the main homepage [HERE](https://fung-id-final.herokuapp.com/)
+2. Visit the [login](https://fung-id-final.herokuapp.com/login) page to log in or sign up.
+3. Navigate to the upload page. 
+4. Click the ```upload files``` button and select an image to upload to the gallery. 
+5. Enter a title and description for the image after the upload finishes. 
+6. Click ```submit```. 
+7. Navigate to [Mush-room](https://fung-id-final.herokuapp.com/mush-room) to view a thumbnail gallery of your colleciton of images. 
+8. Click any thumbnail to view a full-size image, notes entered on the upload step, and a map with geolocation data so you can always remember where you found this mushroom. 
 8. Click ```logout``` to end your session. 
 ## Credits
 Image functionality made possible by [Cloudinary](https://cloudinary.com/documentation/image_upload_api_reference)'s image hosting and upload widget resources. 
