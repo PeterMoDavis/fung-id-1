@@ -18,12 +18,12 @@ This application allows users to add, annotate, view, and utilize photographs of
 ## Using the Deployed Application
 1. Head to the main homepage [HERE](https://fung-id-final.herokuapp.com/)</br>![homepage mushroom](./public/images/home.png)
 2. Navigate to the login page to log in or sign up.  You can use EMAIL: gary@email.com PASSWORD: garygary as a sample sigin in.</br> ![signin signup](./public/images/signin.png)
-3. Navigate to the upload page. 
-4. Click the ```upload files``` button and select an image to upload to the gallery. 
+3. Navigate to the upload page. </br> ![upload page](./public/images/upload.png)
+4. Click the ```upload files``` button and select an image to upload to the gallery. If the metadata exists the image url, latitude, and longitude should automatically be filled in after uploading. 
 5. Enter a title and description for the image after the upload finishes. 
 6. Click ```submit```. 
-7. Navigate to [Mush-room](https://fung-id-final.herokuapp.com/mush-room) to view a thumbnail gallery of your colleciton of images. 
-8. Click any thumbnail to view a full-size image, notes entered on the upload step, and a map with geolocation data so you can always remember where you found this mushroom. 
+7. Navigate to [Mush-room](https://fung-id-final.herokuapp.com/mush-room) to view a thumbnail gallery of your colleciton of images. </br> ![mush room](./public/images/mush-room.png)
+8. Click any thumbnail to view a full-size image, notes entered on the upload step, and a map with geolocation data so you can always remember where you found this mushroom. <br> ![full description](./public/images/details.png)
 9. Click ```logout``` to end your session. 
 ## Credits
 Image functionality made possible by [Cloudinary](https://cloudinary.com/documentation/image_upload_api_reference)'s image hosting and upload widget resources. 
